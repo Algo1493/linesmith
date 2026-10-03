@@ -52,17 +52,17 @@ On first start, Linesmith installs its speech recognition components (a few GB w
 
 ## How it works
 
-**1. Drop a video and pick the languages.** Add more languages for the same run and turn on dubbing if you want a voice.
+**1. Drop a video and pick the languages.** Add files or a whole folder, add more languages for the same run, and turn on dubbing if you want a voice.
 
 <img src="docs/new-translation.webp" width="800" alt="Linesmith's New translation page: English to Turkish, plus Spanish, French and German, with dubbing turned on">
 
-**2. Check every line.** Read the translation next to the source, fix a word or a timing, and play the line in the video.
+**2. Check every line before it is spoken.** Linesmith checks its own translation against the original. Then you can read it next to the source, fix a word or a timing, and play the line in the video.
 
 <img src="docs/editor.webp" width="800" alt="The Linesmith editor with English lines and their Japanese translation side by side">
 
-**3. Export subtitles, or a dubbed video.** Choose the voice service, model and voice; listen to a voice before you use it.
+**3. Export subtitles, or a dubbed video.** Save SRT, VTT or text, burn the subtitles into the video, or dub it. Choose the voice service, model and voice, listen before you use it, or add your own voice with Gemini or ElevenLabs.
 
-<img src="docs/dubbing.webp" width="560" alt="Linesmith dubbing settings with provider, speech model and voice">
+<img src="docs/dubbing.webp" width="600" alt="Linesmith dubbing settings: provider, speech model, voice with a Listen button, your own voice, speaking style, and the original audio kept as a second track">
 
 ## Requirements
 
