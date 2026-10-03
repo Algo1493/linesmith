@@ -14,13 +14,8 @@ Subtitles, translation into 33 languages and AI dubbing, in one desktop app for 
 </p>
 
 <p align="center">
-  <a href="https://algowisp.com/"><img src="docs/preview-2.webp" width="800" alt="One scene from Tears of Steel: the same lines in English, then dubbed by Linesmith into Turkish, Spanish, French, German and Japanese"></a>
-  <br><sub>One scene, five new languages: every dub here was made with Linesmith and a Google Gemini voice. <a href="https://algowisp.com/">Watch it with sound →</a></sub>
-</p>
-
-<p align="center">
-  <a href="https://algowisp.com/#demo"><img src="docs/demo-cosmos.webp" width="800" alt="Victor from Cosmos Laundromat with a Turkish subtitle made by Linesmith"></a>
-  <br><sub>Try the demo on the site: a scene from <i>Cosmos Laundromat</i> with subtitles in six languages and dubbing in five. <i>Cosmos Laundromat</i> © Blender Foundation, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>.</sub>
+  <a href="https://algowisp.com/"><img src="docs/preview-3.webp" width="800" alt="One scene from Cosmos Laundromat: Victor's lines in English, then dubbed by Linesmith into Turkish, Spanish, French, German and Japanese"></a>
+  <br><sub>One scene, five new languages: every dub here was made with Linesmith and a Google Gemini voice. <a href="https://algowisp.com/">Watch it with sound →</a> or <a href="https://algowisp.com/#demo">try the demo</a>.<br><i>Cosmos Laundromat</i> © Blender Foundation, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>.</sub>
 </p>
 
 ## What it does
