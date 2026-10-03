@@ -22,7 +22,7 @@ Subtitles, translation into 33 languages and AI dubbing, in one desktop app for 
 
 - **Speech to subtitles** on your own computer (Whisper or Parakeet). An NVIDIA graphics card makes it much faster.
 - **Translation into 33 languages** with the AI service you choose, checked against the original. Several languages in one run.
-- **Dubbing** with Google Gemini, ElevenLabs, OpenAI or Azure voices. The voice is separated from the music and ambient sound, so only the speech changes; the original audio stays as a second track.
+- **Dubbing** with Google Gemini, ElevenLabs, OpenAI or Azure voices. Every speaker gets their own voice, and with Gemini the dub follows how each line is acted in the original. The voice is separated from the music and ambient sound, so only the speech changes; the original audio stays as a second track.
 - **An editor** to fix any line or timing before you export or dub, plus summaries and questions about the video.
 - **Exports:** SRT, VTT, TXT, or a video with burned-in subtitles in three styles, also bilingual.
 - **Existing subtitles** (SRT, VTT, ASS, or a text track inside an MKV) are used instead of speech recognition.
