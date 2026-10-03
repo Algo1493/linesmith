@@ -14,7 +14,7 @@ Subtitles, translation into 33 languages and AI dubbing, in one desktop app for 
 </p>
 
 <p align="center">
-  <a href="https://algowisp.com/"><img src="docs/preview.webp" width="800" alt="One scene from Tears of Steel: the same lines in English, then dubbed by Linesmith into Turkish, Spanish, French, German and Japanese"></a>
+  <a href="https://algowisp.com/"><img src="docs/preview-2.webp" width="800" alt="One scene from Tears of Steel: the same lines in English, then dubbed by Linesmith into Turkish, Spanish, French, German and Japanese"></a>
   <br><sub>One scene, five new languages: every dub here was made with Linesmith and a Google Gemini voice. <a href="https://algowisp.com/">Watch it with sound →</a></sub>
 </p>
 
@@ -62,7 +62,7 @@ On first start, Linesmith installs its speech recognition components (a few GB w
 
 **3. Export subtitles, or a dubbed video.** Save SRT, VTT or text, burn the subtitles into the video, or dub it. Choose the voice service, model and voice, listen before you use it, or add your own voice with Gemini or ElevenLabs.
 
-<img src="docs/dubbing.webp" width="600" alt="Linesmith dubbing settings: provider, speech model, voice with a Listen button, your own voice, speaking style, and the original audio kept as a second track">
+<img src="docs/dubbing-2.webp" width="600" alt="Linesmith dubbing settings: provider, speech model, voice with a Listen button, your own voice, speaking style, and the original audio kept as a second track">
 
 ## Requirements
 
